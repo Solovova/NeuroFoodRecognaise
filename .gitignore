@@ -1,0 +1,10 @@
+best_model_3class.hdf5
+food-101
+food-101.tar.gz
+history.log
+__pycache__
+test
+test_mini
+train
+train_mini
+.vscode
